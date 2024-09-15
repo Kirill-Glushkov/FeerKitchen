@@ -12,12 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8fd4fb8d0173eb04d8332293dffebd08, type: 3}
   m_Name: AudioClipRefsSO
   m_EditorClassIdentifier: 
-  Chop: []
-  DeliveryFail: []
-  DeliverySuccess: []
-  Footstep: []
-  ObjectDrop: []
-  ObjectPickup: []
-  stoveSizzle: {fileID: 0}
-  Trash: []
-  Warning: []
+  Chop:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  DeliveryFail:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  DeliverySuccess:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  Footstep:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  ObjectDrop:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  ObjectPickup:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  stoveSizzle: {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  Trash:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  Warning:
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
