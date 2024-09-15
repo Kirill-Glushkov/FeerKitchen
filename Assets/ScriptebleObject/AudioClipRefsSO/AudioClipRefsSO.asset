@@ -22,6 +22,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
   ObjectDrop:
   - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
+  - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
   ObjectPickup:
   - {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
   stoveSizzle: {fileID: 8300000, guid: 328ef69063ab17348a7a98744a979397, type: 3}
