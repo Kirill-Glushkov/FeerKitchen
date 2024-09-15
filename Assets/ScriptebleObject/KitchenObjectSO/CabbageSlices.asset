@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2e05f1c90901c94ebf55a094752aee4, type: 3}
+  m_Name: CabbageSlices
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 5612902072429294176, guid: c469d82b0019a1149be18b5a2e5cd6a0, type: 3}
+  _sprite: {fileID: 21300000, guid: 6f49ae7e104ff434e8726b9687ea27e9, type: 3}
+  _obstacleName: Cabbage Slices
